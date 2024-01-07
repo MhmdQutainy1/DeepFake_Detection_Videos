@@ -5,6 +5,6 @@ Detecting deepfake in videos using two methods and with the help of some researc
 Download and extract the dataset you want to use from:
 
 DFDC : https://dfdc.ai/
-***********************
+
 FaceForensics++ : https://github.com/ondyari/FaceForensics/blob/master/dataset/
 
